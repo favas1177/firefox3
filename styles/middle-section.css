@@ -1,0 +1,33 @@
+.items{
+    display: flex;
+    margin-bottom: 40px;
+   
+}
+.item{
+    position: relative;
+    
+  
+}
+.item img:hover{
+    cursor: pointer;
+    border-color: lightgray;
+}
+.item h4{
+    position: absolute;
+    bottom: 2px;
+    left: 59px;
+    margin-bottom: 10px;
+}
+
+.item img{
+    width: 90px;
+    border: 20px solid rgb(239, 238, 238);
+    border-radius: 10px;
+    margin: 40px;
+    
+}
+h4{
+    font-size: 14px;
+    font-weight: normal;
+}
+

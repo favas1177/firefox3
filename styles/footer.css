@@ -1,0 +1,18 @@
+
+footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+footer ul{
+
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: 10px;
+    font-size: 14px;
+    margin-left: 20px;
+}
+footer a{
+    margin-right: 10px;
+}
